@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TI2G", "..\TI2G\", "{E30C17D4-B111-4596-B807-C96AA321A7EB}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53296"
+		Debug.AspNetCompiler.PhysicalPath = "..\TI2G\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53296\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53296"
+		Release.AspNetCompiler.PhysicalPath = "..\TI2G\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53296\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53296"
+		SlnRelativePath = "..\TI2G\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EATP_IntegrationToAGATATSel", "..\EATP_IntegrationToAGATATSel_v1.1\EATP_IntegrationToAGATATSel\EATP_IntegrationToAGATATSel.csproj", "{568F8CB5-B305-477D-8D31-39063F525926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E30C17D4-B111-4596-B807-C96AA321A7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30C17D4-B111-4596-B807-C96AA321A7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30C17D4-B111-4596-B807-C96AA321A7EB}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30C17D4-B111-4596-B807-C96AA321A7EB}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{568F8CB5-B305-477D-8D31-39063F525926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568F8CB5-B305-477D-8D31-39063F525926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568F8CB5-B305-477D-8D31-39063F525926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568F8CB5-B305-477D-8D31-39063F525926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F505CA-67A0-4663-AEC1-2CB891792AD7}
+	EndGlobalSection
+EndGlobal
